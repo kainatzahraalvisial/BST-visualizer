@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         with
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         [
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:             T=unsigned int
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         ]
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         and
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         [
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:             T=float
+C:\Users\Ali\source\repos\BST GV\main.cpp(520,64): warning C4244:         ]
+C:\Users\Ali\source\repos\BST GV\main.cpp(532,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ali\source\repos\BST GV\main.cpp(532,51): warning C4244:         with
+C:\Users\Ali\source\repos\BST GV\main.cpp(532,51): warning C4244:         [
+C:\Users\Ali\source\repos\BST GV\main.cpp(532,51): warning C4244:             T=unsigned int
+C:\Users\Ali\source\repos\BST GV\main.cpp(532,51): warning C4244:         ]
+  BST GV.vcxproj -> C:\Users\Ali\source\repos\BST GV\Debug\BST GV.exe
