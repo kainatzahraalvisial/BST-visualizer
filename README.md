@@ -1,0 +1,1 @@
+This project aims to create an engaging and educational tool for understanding Binary Search Trees through interactive visualization. By leveraging the SFML library for graphics rendering in a C++ environment, the application will provide a dynamic and user-friendly experience.
